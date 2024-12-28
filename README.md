@@ -7,4 +7,4 @@
 + SCSS
 
 ## Preview:
-![Preview]((https://github.com/RostyslavWeb/Natours-project/blob/main/Natours-index.jpg))
+![Preview](https://github.com/RostyslavWeb/Natours-project/blob/main/Natours-index.jpg)
